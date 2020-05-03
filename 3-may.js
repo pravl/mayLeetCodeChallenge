@@ -1,6 +1,6 @@
 var canConstruct = function(ransomNote, magazine) {
     let obj = {}
-    for(let i = 0 ; i< magazine.length ; i++) {
+    for(let i of magzine) {
         if (obj[magazine.charAt(i)]) {
             obj[magazine.charAt(i)] = obj[magazine.charAt(i)] + 1
         }
@@ -8,7 +8,8 @@ var canConstruct = function(ransomNote, magazine) {
             obj[magazine.charAt(i)] = 1
         }
     }
-      for(let i = 0 ; i< ransomNote.length ; i++) {
+
+    for(let i of ransomNote) {
           if (obj[ransomNote.charAt(i)]) {
               if(obj[ransomNote.charAt(i)] > 0) {
                   
