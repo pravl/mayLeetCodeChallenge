@@ -5,3 +5,5 @@
 - 2 May  => String manipulation, filter
 
 - 3 May => string check 
+
+-4 May => bit operation 
