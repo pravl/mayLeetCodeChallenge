@@ -6,4 +6,4 @@
 
 - 3 May => string check 
 
--4 May => bit operation 
+- 4 May => bit operation 
