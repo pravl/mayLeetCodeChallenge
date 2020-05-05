@@ -7,3 +7,5 @@
 - 3 May => string check 
 
 -4 May => bit operation 
+
+-5 May => First Unique Character in a String

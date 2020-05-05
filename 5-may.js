@@ -7,3 +7,8 @@ var firstUniqChar = function(s) {
   }
   return -1
 };
+
+/*
+First Unique Character in a String
+
+*/ 
