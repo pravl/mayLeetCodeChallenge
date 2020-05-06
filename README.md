@@ -9,3 +9,5 @@
 - 4 May => bit operation 
 
 - 5 May => First Unique Character in a String
+
+- 6 May => Array manipulation
